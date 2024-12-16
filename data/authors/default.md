@@ -1,5 +1,5 @@
 ---
-name: kamal kashyap
+name: matt mandersheid
 avatar: /static/images/me.jpg
 
 occupation: Web developer
