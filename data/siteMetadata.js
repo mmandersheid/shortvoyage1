@@ -2,10 +2,10 @@ const siteMetadata = {
   title: 'Short Voyage',
   author: 'Matt Mandersheid',
   headerTitle: 'short voyage',
-  description: 'getting you there soon',
+  description: 'getting you there',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://techipedia.vercel.app,',
+  siteUrl: 'https://shortvoyage1.vercel.app',
   siteRepo: 'https://github.com/thekamalkashyap/blogging-website-template',
   siteLogo: '/icons/maskable.png',
   image: '/static/images/me.jpg',
