@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://shortvoyage1.vercel.app',
-  siteRepo: 'https://github.com/thekamalkashyap/blogging-website-template',
+  siteRepo: 'https://github.com/mmandersheid/shortvoyage1',
   siteLogo: '/icons/maskable.png',
   image: '/static/images/me.jpg',
   email: 'iamkamalkumar@proton.me',

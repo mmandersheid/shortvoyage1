@@ -38,7 +38,6 @@ const LayoutWrapper = ({ children }) => {
                 </Link>
               ))}
             </div>
-            <InstallApp />
             <ThemeSwitch />
             <MobileNav />
           </div>
