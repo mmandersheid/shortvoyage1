@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Techipedia',
-  author: 'Kamal Kashyap',
-  headerTitle: 'techipedia',
-  description: 'best place to learn trendy tech and understanding concepts',
+  title: 'Short Voyage',
+  author: 'Matt Mandersheid',
+  headerTitle: 'short voyage',
+  description: 'getting you there soon',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://techipedia.vercel.app,',
