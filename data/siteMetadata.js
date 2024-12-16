@@ -8,11 +8,10 @@ const siteMetadata = {
   siteUrl: 'https://shortvoyage1.vercel.app',
   siteRepo: 'https://github.com/mmandersheid/shortvoyage1',
   siteLogo: '/icons/maskable.png',
-  image: '/static/images/me.jpg',
+  image: '/static/images/me2.jpg',
   email: 'iamkamalkumar@proton.me',
-  github: 'https://github.com/thekamalkashyap',
-  twitter: 'https://twitter.com/thekamalkashyap',
-  instagram: 'https://instagram.com/kashyap._.kamal',
+  github: 'https://github.com/mmandersheid',
+  twitter: 'https://twitter.com/mmandersheid',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
