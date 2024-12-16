@@ -27,7 +27,7 @@ export default function InstallApp() {
           }
         }}
       >
-        Install Ap
+        Install App
       </button>
     </div>
   )

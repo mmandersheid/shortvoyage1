@@ -7,7 +7,7 @@ import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import Typewriter from 'typewriter-effect'
 import siteMetadata from '@/data/siteMetadata'
-import InstallApp from './InstallApp'
+import InstallAp from './InstallApp'
 
 const LayoutWrapper = ({ children }) => {
   return (
