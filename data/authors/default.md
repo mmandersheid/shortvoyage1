@@ -1,6 +1,6 @@
 ---
 name: matt mandersheid
-avatar: /static/images/me.jpg
+avatar: /static/images/me2.jpg
 
 occupation: Web developer
 company: Freelancer
